@@ -1,7 +1,7 @@
 # QRCode-Generate
 
 <p align="center">
-  <img width="90%" src="https://firebasestorage.googleapis.com/v0/b/imagens-3dce0.appspot.com/o/QRCode-Generate.png?alt=media&token=fd041d12-b0c4-4543-8594-8883d0fb64bf">
+  <img width="90%" src="https://firebasestorage.googleapis.com/v0/b/imagens-3dce0.appspot.com/o/QRCode-Generate.png?alt=media&token=013b966b-d7c5-47ab-93e0-023a6dbef67a">
 </p>
 
 ## :satellite: Technologies
